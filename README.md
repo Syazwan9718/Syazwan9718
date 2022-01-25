@@ -1,7 +1,7 @@
--😄Assalammualaikum And Hai,
--😉My name is Muhammad Akmal Syazwan
--📘I'm a student at Sekolah Menengah Sains Sultan Haji Ahmad Shah Kuantan
--🔧Interested in Electronic and Electrical Engineering
+- 😄Assalammualaikum And Hai,
+- 😉My name is Muhammad Akmal Syazwan 
+- 📘I'm a student at Sekolah Menengah Sains Sultan Haji Ahmad Shah Kuantan
+- 🔧Interested in Electronic and Electrical Engineering
 <ins>My Skill</ins>
 
 

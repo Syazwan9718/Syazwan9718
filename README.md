@@ -3,7 +3,10 @@
 - 📘I'm a student at Sekolah Menengah Sains Sultan Haji Ahmad Shah Kuantan
 - 🔧Interested in Electronic and Electrical Engineering
 - <ins>My Skill</ins>
-  - C++
+  - Controller  :  Arduino
+  - Language    :  C++ 
+  - Designing   :  3D design , Circuit design (EasyEda/Eagle) , PCB design (EasyEda)
+  - Hardware    :  Electronic wiring , Soldering SMT/SMD 
 
 
 

@@ -1,6 +1,6 @@
 - 😄Assalammualaikum And Hai,
-- 😉My name is Muhammad Akmal Syazwan 
-- 📘I'm a student at Sekolah Menengah Sains Sultan Haji Ahmad Shah Kuantan
+- 😉My name is Muhammad Akmal Syazwan bin Abas
+- 📘I'm a student at ~~Sekolah Menengah Sains Sultan Haji Ahmad Shah Kuantan~~ Sekolah Menengah Teknik Kuala Lumpur
 - 🔧Interested in Electronic and Electrical Engineering
 - <ins>My Skill</ins>
   - Controller  :  Arduino
